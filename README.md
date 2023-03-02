@@ -9,3 +9,5 @@ Improves User Interfaces in Dark Mode and with square edges
 - **Replay Mod** by CrushedPixel and johni0702
 - **Plasmo Voice** by KDids
 - **Simple Voice Chat** by henkelmax
+- **Just Enough Items (JEI)** by mezz
+- **Supplementaries** by MehVahdJukaar
