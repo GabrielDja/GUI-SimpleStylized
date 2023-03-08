@@ -1,6 +1,14 @@
 # GUI-SimpleStylized
 Improves User Interfaces in Dark Mode and with square edges
 
+**Download**
+
+CurseForge : https://www.curseforge.com/minecraft/texture-packs/gui-simplestylized
+
+Modrinth : https://modrinth.com/resourcepack/gui-simplestylized
+
+______________________________
+
 **This Resource Pack is compatible with the following Mods:**
 
 - **Boundtiful** by Ejektaflex
