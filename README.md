@@ -19,3 +19,5 @@ ______________________________
 - **Simple Voice Chat** by henkelmax
 - **Just Enough Items (JEI)** by mezz
 - **Supplementaries** by MehVahdJukaar
+- **Vinery** by satisfyL
+- **Chisels & Bits** by OrionOnline
