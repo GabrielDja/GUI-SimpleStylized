@@ -21,3 +21,4 @@ ______________________________
 - **Supplementaries** by MehVahdJukaar
 - **Vinery** by satisfyL
 - **Chisels & Bits** by OrionOnline
+- **Jade** by Snownee_
