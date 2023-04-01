@@ -8,6 +8,11 @@ CurseForge : https://www.curseforge.com/minecraft/texture-packs/gui-simplestyliz
 Modrinth : https://modrinth.com/resourcepack/gui-simplestylized
 
 ______________________________
+**LICENSE**
+
+This pack was created by **GabrielDja**,
+Please credit the creator when using the pack in public.
+______________________________
 
 **This Resource Pack is compatible with the following Mods:**
 
