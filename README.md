@@ -17,6 +17,8 @@ ______________________________
 
 **This Resource Pack is compatible with the following Mods:**
 
+- **Music Electronic** by GabrielDja
+- **Trick Update 1.20** by GabrielDja
 - **Boundtiful** by Ejektaflex
 - **ArmorStatues** by Fuzs_
 - **Mod Menu** by ProspectorDev
@@ -28,3 +30,8 @@ ______________________________
 - **Vinery** by satisfyL
 - **Chisels & Bits** by OrionOnline
 - **Jade** by Snownee_
+- **Inventory Tabs (updated)** by Andrew6rant
+- **Inventory Profiles Next** by mirinimi
+- **Catalog** by MrCrayfish
+- **Recursive Resources** by Enjarai (Thanks to Felix14-v2)
+- **Language Reload** by Jerozgen (Thanks to Felix14-v2)
