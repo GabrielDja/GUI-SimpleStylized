@@ -9,7 +9,7 @@ Modrinth : https://modrinth.com/resourcepack/gui-simplestylized
 
 ______________________________
 
-**LICENSE**
+**LICENSE (CC-BY-NC-4.0)**
 
 This pack was created by **GabrielDja**,
 Please credit the creator when using the pack in public.
