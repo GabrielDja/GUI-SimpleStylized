@@ -37,3 +37,8 @@ ______________________________
 - **Language Reload** (Thanks Felix14-v2)
 - **Item Swapper**
 - **Waystones**
+- **Trinkets**
+- **BackSlot**
+- **Inventory Sorter**
+- **Chest Tracker** (Thanks 17Js)
+- **LibGui** (Thanks 17Js)
