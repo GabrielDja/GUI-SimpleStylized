@@ -15,7 +15,7 @@ This pack was created by **GabrielDja**,
 Please credit the creator when using the pack in public.
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (28 Mods):**
+**This Resource Pack is compatible with the following Mods (29 Mods):**
 
 - **Music Electronic**
 - **Trick Update 1.20**
@@ -45,3 +45,4 @@ ______________________________
 - **Inventory Management**
 - **Easy Magic** (Thanks WForst-Breeze)
 - **In-Game Account Switcher** (Thanks WForst-Breeze)
+- **EMI** (Thanks xlifi)
