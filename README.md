@@ -39,7 +39,7 @@ ______________________________
 - **Waystones**
 - **Trinkets**
 - **BackSlot**
-- **Inventory Sorter**
+- **Inventory Sorting**
 - **Chest Tracker** (Thanks 17Js)
 - **LibGui** (Thanks 17Js)
 - **Inventory Management**
