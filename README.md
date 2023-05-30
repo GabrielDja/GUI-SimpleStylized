@@ -1,7 +1,7 @@
 # GUI-SimpleStylized
 Improves User Interfaces in Dark Mode and with square edges
 
-**Download**
+# Download
 
 CurseForge : https://www.curseforge.com/minecraft/texture-packs/gui-simplestylized
 
@@ -9,7 +9,7 @@ Modrinth : https://modrinth.com/resourcepack/gui-simplestylized
 
 ______________________________
 
-**LICENSE (CC-BY-NC-4.0)**
+# LICENSE (CC-BY-NC-4.0)
 
 This pack was created by **GabrielDja**,
 Please credit the creator when using the pack in public.
