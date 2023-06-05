@@ -1,6 +1,8 @@
 # GUI-SimpleStylized
 Improves User Interfaces in Dark Mode and with square edges
 
+![GUI-SimpleStylized_Concept](https://static.wixstatic.com/media/31958c_ef103eb0c4144f3385213ca5a4389117~mv2.png/v1/fill/w_646,h_367,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GUI-SimpleStylized_Banner.png)
+
 # Download
 
 CurseForge : https://www.curseforge.com/minecraft/texture-packs/gui-simplestylized
@@ -15,7 +17,7 @@ This pack was created by **GabrielDja**,
 Please credit the creator when using the pack in public.
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (29 Mods):**
+**This Resource Pack is compatible with the following Mods (39 Mods):**
 
 - **Music Electronic**
 - **Trick Update 1.20**
@@ -46,3 +48,13 @@ ______________________________
 - **Easy Magic** (Thanks WForst-Breeze)
 - **In-Game Account Switcher** (Thanks WForst-Breeze)
 - **EMI** (Thanks xlifi)
+- **Fabric Waystones**
+- **Fabric Musica**
+- **Compact Storage**
+- **Iron Chests: Restocked**
+- **Easy Villagers**
+- **Capes [Fabric/Forge]**
+- **owo (owo-lib)**
+- **The Bumblezone (Quilt/Fabric)**
+- **Auth Me** (Thanks xlifi)
+- **Fabric API** (Thanks xlifi)

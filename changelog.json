@@ -1,9 +1,33 @@
 GUI SimpleStylized - CHANGELOG (French)
 
+2.0 - Big Update
+⚡Nouveau Support de Mod pour:
+- Ajout de la prise en charge pour "Fabric Waystones"
+- Ajout de la prise en charge pour "Fabric Musica"
+- Ajout de la prise en charge pour "Compact Storage"
+- Ajout de la prise en charge pour "Iron Chests: Restocked"
+- Ajout de la prise en charge pour "Easy Villagers"
+- Ajout de la prise en charge pour "Capes [Fabric/Forge]"
+- Ajout de la prise en charge pour "oωo (owo-lib)"
+- Ajout de la prise en charge pour "The Bumblezone (Quilt/Fabric)"
+- Ajout de la prise en charge pour "Auth Me" (Merci xlifi)
+- Ajout de la prise en charge pour "Fabric API" (Merci xlifi)
+
+📋Améliorations:
+- Amélioration de l'Icon du Pack de Ressource
+- Ajout des Credits des Mods
+- Mise à Jour de "Mod Menu"
+- Mise à Jour de "Plasmo Voice"
+
+🛠️Corrections:
+- Correction d'un bug dans l'interface Créatif.
+
+39 Mods compatibles au total!
+---------------------
 1.9
 - Ajout de la prise en charge pour "EMI" (Merci xlifi)
 - Mise à Jour de "Mod Menu"
-- Amélioration des Textures pour "Inventory Sorter"
+- Amélioration des Textures pour "Inventory Sorting"
 - Amélioration des Slots Vides pour les Armures dans l'inventaire
 - Amélioration de quelque Textures sur la fenêtre d'Avancements
 - Amélioration de quelque Texture
@@ -21,7 +45,7 @@ GUI SimpleStylized - CHANGELOG (French)
 1.7
 - Ajout de la prise en charge pour "Trinkets"
 - Ajout de la prise en charge pour "BackSlot"
-- Ajout de la prise en charge pour "Inventory Sorter"
+- Ajout de la prise en charge pour "Inventory Sorting"
 - Ajout de la prise en charge pour "Chest Tracker" (Merci 17Js)
 - Ajout de la prise en charge pour "LibGui" (Merci 17Js)
 
