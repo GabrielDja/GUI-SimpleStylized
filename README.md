@@ -1,4 +1,4 @@
-# GUI-SimpleStylized
+# GUI SimpleStylized
 Improves User Interfaces in Dark Mode and with square edges
 
 ![GUI-SimpleStylized_Concept](https://static.wixstatic.com/media/31958c_ef103eb0c4144f3385213ca5a4389117~mv2.png/v1/fill/w_646,h_367,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GUI-SimpleStylized_Banner.png)
@@ -15,6 +15,11 @@ ______________________________
 
 This pack was created by **GabrielDja**,
 Please credit the creator when using the pack in public.
+______________________________
+
+# Wiki  
+
+[Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
 **This Resource Pack is compatible with the following Mods (39 Mods):**
