@@ -22,7 +22,7 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (39 Mods):**
+**This Resource Pack is compatible with the following Mods (40 Mods):**
 
 - **Music Electronic**
 - **Trick Update 1.20**
@@ -63,3 +63,4 @@ ______________________________
 - **The Bumblezone (Quilt/Fabric)**
 - **Auth Me** (Thanks xlifi)
 - **Fabric API** (Thanks xlifi)
+- **Numismatic Overhaul**
