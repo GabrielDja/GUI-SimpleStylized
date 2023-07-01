@@ -22,7 +22,7 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (42 Mods):**
+**This Resource Pack is compatible with the following Mods (43 Mods):**
 
 - **Music Electronic**
 - **Trick Update 1.20**
@@ -66,3 +66,4 @@ ______________________________
 - **Numismatic Overhaul**
 - **Item Collectors**
 - **Pack It Up!**
+- **[ETF] Entity Texture Features**
