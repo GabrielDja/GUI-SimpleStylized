@@ -1,4 +1,7 @@
 # GUI SimpleStylized
+
+![GitHub all releases](https://img.shields.io/github/downloads/GabrielDja/GUI-SimpleStylized/total?style=flat-square&label=Downloads%20on%20Github&color=green)  
+
 Improves User Interfaces in Dark Mode and with square edges
 
 ![GUI-SimpleStylized_Concept](https://static.wixstatic.com/media/31958c_ef103eb0c4144f3385213ca5a4389117~mv2.png/v1/fill/w_646,h_367,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GUI-SimpleStylized_Banner.png)
