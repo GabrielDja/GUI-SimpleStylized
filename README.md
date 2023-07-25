@@ -25,7 +25,7 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (49 Mods):**
+**This Resource Pack is compatible with the following Mods (51 Mods):**
 
 - **Music Electronic**
 - **Trick Update 1.20**
@@ -76,3 +76,5 @@ ______________________________
 - **Quark**
 - **Backpacked**
 - **Inventorio (Fabric)**
+- **Tom's Simple Storage Mod**
+- **Heracles**
