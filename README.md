@@ -25,7 +25,7 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (53 Mods):**
+**This Resource Pack is compatible with the following Mods (56 Mods):**
 
 - **Music Electronic**
 - **Trick Update 1.20**
@@ -43,19 +43,19 @@ ______________________________
 - **Inventory Tabs (updated)**
 - **Inventory Profiles Next**
 - **Catalog**
-- **Recursive Resources** (Thanks Felix14-v2)
-- **Language Reload** (Thanks Felix14-v2)
+- **Recursive Resources** (Thanks to Felix14-v2)
+- **Language Reload** (Thanks to Felix14-v2)
 - **Item Swapper**
 - **Waystones**
 - **Trinkets**
 - **BackSlot**
 - **Inventory Sorting**
-- **Chest Tracker** (Thanks 17Js)
+- **Chest Tracker** (Thanks to 17Js)
 - **LibGui** (Thanks 17Js)
 - **Inventory Management**
-- **Easy Magic** (Thanks WForst-Breeze)
-- **In-Game Account Switcher** (Thanks WForst-Breeze)
-- **EMI** (Thanks xlifi)
+- **Easy Magic** (Thanks to WForst-Breeze)
+- **In-Game Account Switcher** (Thanks to WForst-Breeze)
+- **EMI** (Thanks to xlifi)
 - **Fabric Waystones**
 - **Fabric Musica**
 - **Compact Storage**
@@ -64,8 +64,8 @@ ______________________________
 - **Capes [Fabric/Forge]**
 - **owo (owo-lib)**
 - **The Bumblezone (Quilt/Fabric)**
-- **Auth Me** (Thanks xlifi)
-- **Fabric API** (Thanks xlifi)
+- **Auth Me** (Thanks to xlifi)
+- **Fabric API** (Thanks to xlifi)
 - **Numismatic Overhaul**
 - **Item Collectors**
 - **Pack It Up!**
@@ -79,4 +79,7 @@ ______________________________
 - **Tom's Simple Storage Mod**
 - **Heracles**
 - **Traveler's Backpack**
-- **AppleSkin** (Thanks xlifi)
+- **AppleSkin** (Thanks to xlifi)
+- **Create** (Thanks to xlifi)
+- **Chat Patches**
+- **Adorn**
