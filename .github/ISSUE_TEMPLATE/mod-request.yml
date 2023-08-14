@@ -1,0 +1,24 @@
+name: Mod Request
+about: Suggest Mod
+title: "[Mod Request] MOD NAME"
+labels: Mod Support
+
+Description
+
+Link to the Mod's Project
+
+Modloader
+
+- type: dropdown
+  id: game-versions
+  labels: Game Versions
+  attributes:
+    label: How did you download the software?
+    options:
+      - 1.20
+      - 1.19
+      - 1.18
+      - 1.17
+  validations:
+    required: true
+  
