@@ -25,7 +25,7 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (58 Mods):**
+**This Resource Pack is compatible with the following Mods (61 Mods):**
 
 - **Music Electronic**
 - **Trick Update 1.20**
@@ -85,3 +85,6 @@ ______________________________
 - **Adorn**
 - **ContainerSearcher**
 - **Better Command Block UI**
+- **Utility Belt**
+- **LevelZ**
+- **Galosphere**

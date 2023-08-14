@@ -1,5 +1,27 @@
 GUI SimpleStylized - CHANGELOG (French)
 
+3.1
+⚡Nouveau Support de Mod pour:
+- Ajout de la prise en charge pour "Utility Belt"
+- Ajout de la prise en charge pour "LevelZ"
+- Ajout de la prise en charge pour "Galosphere"
+
+📜Nouveaux Addons:
+- 
+
+📋Améliorations:
+- Nouvelle Icon du Pack de Resource (1.20+, 1.20.2)
+- Quelque Texte sur l'Interface est désormais colorée. (1.20+, 1.20.2)
+- Prend en Charge le format 16 et 17 du Pack de Resource (1.20.2)
+- Ajout de la Traduction Russe "ru_ru" (1.20+, 1.20.2)
+- Mise à Jour des Textures pour "Supplementaries"
+- Ajout d'une Texture de Fond Manquante
+
+🛠️Bug Corrigé:
+- Correction dans l'Interface d'Avancements (Thanks to xlifi)
+
+61 Mods compatibles au total!
+---------------------
 3.0
 La Version 1.19+ ne serra plus Mis à Jour.
 
