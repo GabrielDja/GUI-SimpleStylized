@@ -4,7 +4,7 @@
 
 Improves User Interfaces in Dark Mode and with square edges
 
-![GUI-SimpleStylized_Concept](https://static.wixstatic.com/media/31958c_ef103eb0c4144f3385213ca5a4389117~mv2.png/v1/fill/w_646,h_367,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GUI-SimpleStylized_Banner.png)
+![GUI-SimpleStylized_Concept](https://static.wixstatic.com/media/31958c_50fc019737864dc4a5d67d4f97ddcede~mv2.jpg/v1/fill/w_646,h_367,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/GUI-SimpleStylized_New-Banner.jpg)
 
 # Contributors
 Thanks to All!
@@ -33,7 +33,7 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (61 Mods):**
+**This Resource Pack is compatible with the following Mods (65 Mods):**
 
 - **Music Electronic**
 - **Trick Update 1.20**
@@ -96,3 +96,7 @@ ______________________________
 - **Utility Belt**
 - **LevelZ**
 - **Galosphere**
+- **Better Anvil**
+- **EssentialGUI**
+- **Completionist's Index**
+- **Let's Do: Bakery**
