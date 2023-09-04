@@ -33,7 +33,7 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (69 Mods):**
+**This Resource Pack is compatible with the following Mods (72 Mods):**
 
 - **Music Electronic**
 - **Trick Update 1.20**
@@ -104,3 +104,6 @@ ______________________________
 - **Mighty Mail**
 - **Copper Hopper**
 - **LibZ** (Thanks to xlifi)
+- **Advancement Plaques**
+- **Custom Capes**
+- **Trade Cycling**
