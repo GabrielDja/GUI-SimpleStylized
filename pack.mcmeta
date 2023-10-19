@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 15,
-    "description": "§6§lGUI SimpleStylized§r - §d§l1.20 §r§b- §r§l§d[§b§lBy GabrielDja§r§l§d]"
+    "pack_format": 19,
+    "supported_formats": [19],
+    "description": "§6§lGUI SimpleStylized§r - §d§l1.20.2 §r§b- §r§l§d[§b§lBy GabrielDja§r§l§d]"
   }
 }
