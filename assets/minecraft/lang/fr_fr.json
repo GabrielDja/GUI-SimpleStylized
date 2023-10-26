@@ -3381,7 +3381,7 @@
     "gui.abuseReport.sending.title": "Envoi de votre signalement...",
     "gui.abuseReport.sent.title": "Signalement envoyé",
     "gui.acknowledge": "J'ai compris",
-    "gui.advancements": "Progrès",
+    "gui.advancements": "\u00a7fProgrès",
     "gui.all": "Toutes",
     "gui.back": "Retour",
     "gui.banned.description": "%s\n\n%s\n\nPour en savoir plus, consultez le lien suivant : %s",
