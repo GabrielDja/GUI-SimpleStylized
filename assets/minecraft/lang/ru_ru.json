@@ -3395,7 +3395,7 @@
     "gui.abuseReport.sending.title": "Отправка жалобы...",
     "gui.abuseReport.sent.title": "Жалоба отправлена",
     "gui.acknowledge": "Понятно",
-    "gui.advancements": "Достижения",
+    "gui.advancements": "\u00a7fДостижения",
     "gui.all": "Все",
     "gui.back": "Назад",
     "gui.banned.description": "%s\n\n%s\n\nУзнайте больше по ссылке: %s",

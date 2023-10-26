@@ -1,5 +1,26 @@
 GUI SimpleStylized - CHANGELOG (French)
 
+3.8
+⚡Nouveau Support de Mod pour:
+- Ajout de la prise en charge pour "RP Renames"
+- Ajout de la prise en charge pour "Energized Power" (Request #25)
+
+📜Nouveaux Addons:
+- 
+
+📋Améliorations:
+- Mise à Jour de l'Icon (1.21)
+- Prend en charge la Snapshot 23w43a (1.21)
+- Réajustement de certaine Texture Vanilla (1.19.4, 1.20+)
+- Mise à Jour des Textures pour "Just Enough Items (JEI)" (Issue #22)
+- Mise à Jour des Textures pour "Traveler's Backpack" (Issue #23)
+
+🛠️Bug Corrigé:
+- Le Titre dans la fenêtre d'Avancements n'était pas visible.
+- Problème de Texture sur les Onglets d'Avancements (1.20.2).
+
+84 Mods compatibles au total!
+---------------------
 3.7
 ⚡Nouveau Support de Mod pour:
 - Ajout de la prise en charge pour "Quick Menu"
