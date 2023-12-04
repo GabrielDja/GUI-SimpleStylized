@@ -1,5 +1,31 @@
 GUI SimpleStylized - CHANGELOG (French)
 
+4.0
+La version 1.19.4 ne serra plus Mis à Jour.
+
+⚡Nouveau Support de Mod pour:
+- Ajout de la prise en charge pour "Origins" (Via Mod's Suggestion Form)
+- Ajout de la prise en charge pour "Uncrafter" (Via Mod's Suggestion Form)
+- Ajout de la prise en charge pour "No Chat Reports" (Via Mod's Suggestion Form)
+- Ajout de la prise en charge pour "Expanded Delight [Fabric]" (Via Mod's Suggestion Form)
+- Ajout de la prise en charge pour "Miner's Delight" (Via Mod's Suggestion Form)
+- Ajout de la prise en charge pour "Create Encased"
+
+📜Nouveaux Addons:
+- 
+
+📋Améliorations:
+- Nouvelle Langues pris en charge: Italiano(it_it), Español(es_es).
+- Réecriture complète des traductions (Tout les textes d'interfaces sont désormais visible, normalement)
+- Prend en charge la Snapshot 23w46a (1.21)
+- Mise à Jour des Textures pour "Auth Me" (1.20.2, 1.21)
+
+🛠️Bug Corrigé:
+- Problème de Texture sur les Onglets Vanilla (1.20.2, 1.21)
+- Problème de compabilité entre les Multi-Versions (1.20.2, 1.21)
+
+95 Mods compatibles au total!
+---------------------
 3.9
 ⚡Nouveau Support de Mod pour:
 - Ajout de la prise en charge pour "TrashSlot" (Via Mod's Suggestion Form)
