@@ -33,7 +33,7 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (102 Mods):**
+**This Resource Pack is compatible with the following Mods (105 Mods):**
 
 - **Music Electronic**
 - **Trick Update 1.20**
@@ -137,3 +137,7 @@ ______________________________
 - **Curios API**
 - **Fast Trading**
 - **Mekanism**
+- **SkinShuffle**
+- **VillagerTimetable**
+- **Sophisticated Core**
+- **Farmer's Delight [Fabric]**
