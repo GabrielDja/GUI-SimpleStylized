@@ -33,7 +33,7 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (105 Mods):**
+**This Resource Pack is compatible with the following Mods (110 Mods):**
 
 - **Music Electronic**
 - **Trick Update 1.20**
@@ -141,3 +141,8 @@ ______________________________
 - **VillagerTimetable**
 - **Sophisticated Core**
 - **Farmer's Delight [Fabric]**
+- **Farmer's Respite (Fabric)**
+- **Nether Chested**
+- **Iris Shaders**
+- **BedrockIfy - Bedrock Features on Java!**
+- **Apothic Attributes (AttributesLib)**
