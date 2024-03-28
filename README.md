@@ -13,6 +13,8 @@ Thanks to All!
 - WForst-Breeze
 - 17Js
 - Felix14-v2
+- audioL (Curseforge)
+- nco2k
 
 # Download
 
@@ -33,116 +35,121 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (110 Mods):**
+**This Resource Pack is compatible with the following Mods (116 Mods):**
 
-- **Music Electronic**
-- **Trick Update 1.20**
-- **Boundtiful**
-- **ArmorStatues**
-- **Mod Menu**
-- **Replay Mod**
-- **Plasmo Voice**
-- **Simple Voice Chat**
-- **Just Enough Items (JEI)**
-- **Supplementaries**
-- **Vinery**
-- **Chisels & Bits**
-- **Jade**
-- **Inventory Tabs (updated)**
-- **Inventory Profiles Next**
-- **Catalog**
-- **Recursive Resources** (Thanks to Felix14-v2)
-- **Language Reload** (Thanks to Felix14-v2)
-- **Item Swapper**
-- **Waystones**
-- **Trinkets**
-- **BackSlot**
-- **Inventory Sorting**
-- **Chest Tracker** (Thanks to 17Js)
-- **LibGui** (Thanks 17Js)
-- **Inventory Management**
-- **Easy Magic** (Thanks to WForst-Breeze)
-- **In-Game Account Switcher** (Thanks to WForst-Breeze)
-- **EMI** (Thanks to xlifi)
-- **Fabric Waystones**
-- **Fabric Musica**
-- **Compact Storage**
-- **Iron Chests: Restocked**
-- **Easy Villagers**
-- **Capes [Fabric/Forge]**
-- **owo (owo-lib)**
-- **The Bumblezone (Quilt/Fabric)**
-- **Auth Me** (Thanks to xlifi)
-- **Fabric API** (Thanks to xlifi)
-- **Numismatic Overhaul**
-- **Item Collectors**
-- **Pack It Up!**
 - **[ETF] Entity Texture Features**
-- **QuickStack**
-- **TieredZ**
-- **Polymorph (Fabric/Forge/Quilt)**
-- **Quark**
-- **Backpacked**
-- **Inventorio (Fabric)**
-- **Tom's Simple Storage Mod**
-- **Heracles**
-- **Traveler's Backpack**
-- **AppleSkin** (Thanks to xlifi)
-- **Create** (Thanks to xlifi)
-- **Chat Patches**
-- **Adorn**
-- **ContainerSearcher**
-- **Better Command Block UI**
-- **Utility Belt**
-- **LevelZ**
-- **Galosphere**
-- **Better Anvil**
-- **EssentialGUI**
-- **Completionist's Index**
-- **Let's Do: Bakery**
-- **Better Advancements**
-- **Mighty Mail**
-- **Copper Hopper**
-- **LibZ** (Thanks to xlifi)
-- **Advancement Plaques**
-- **Custom Capes**
-- **Trade Cycling**
-- **RewardZ**
-- **Golden Hopper**
-- **Crafting Slots**
-- **Moving Elevators**
-- **Enchanting Infuser**
 - **Ad Astra**
-- **Quick Menu**
-- **Inmis**
-- **FiltPick**
-- **Screenshot Viewer**
-- **RP Renames**
-- **Energized Power**
-- **TrashSlot**
-- **Raised**
-- **Easy Anvils**
+- **Adorn**
+- **Advancement Plaques**
+- **Apothic Attributes (AttributesLib)**
+- **AppleSkin** (Thanks to xlifi)
+- **ArmorStatues**
+- **Auth Me** (Thanks to xlifi)
+- **Backpacked**
+- **BackSlot**
 - **Bartering Station**
-- **Stylish Effects**
-- **Origins**
-- **Uncrafter**
-- **No Chat Reports**
-- **Expanded Delight [Fabric]**
-- **Miner's Delight**
-- **Create Encased**
-- **Unified Storage**
-- **Tom's Trading Network**
+- **BedrockIfy - Bedrock Features on Java!**
+- **Better Advancements**
+- **Better Anvil**
+- **Better Archeology** (Thanks to nco2k)
+- **Better Command Block UI**
+- **Boundtiful**
+- **Capes [Fabric/Forge]**
+- **Catalog**
+- **Chat Patches**
+- **Chest Tracker** (Thanks to 17Js)
+- **Chisels & Bits**
+- **Compact Storage**
+- **Completionist's Index**
+- **ContainerSearcher**
+- **Copper Hopper**
 - **Crabber's Delight**
-- **Inventory Tabs**
+- **Crafting Slots**
+- **Create Encased**
+- **Create** (Thanks to xlifi)
 - **Curios API**
-- **Fast Trading**
-- **Mekanism**
-- **SkinShuffle**
-- **VillagerTimetable**
-- **Sophisticated Core**
+- **Custom Capes**
+- **Easy Anvils**
+- **Easy Magic** (Thanks to WForst-Breeze)
+- **Easy Villagers**
+- **EMI** (Thanks to xlifi)
+- **Enchanting Infuser**
+- **Energized Power**
+- **EssentialGUI**
+- **Even Better Archeology** (Thanks to nco2k)
+- **Expanded Delight [Fabric]**
+- **Fabric API** (Thanks to xlifi)
+- **Fabric Musica**
+- **Fabric Waystones**
 - **Farmer's Delight [Fabric]**
 - **Farmer's Respite (Fabric)**
-- **Nether Chested**
+- **Fast Trading**
+- **FiltPick**
+- **Galosphere**
+- **Golden Hopper**
+- **Heracles**
+- **Illager Invasion** (Thanks to nco2k)
+- **In-Game Account Switcher** (Thanks to WForst-Breeze)
+- **Inmis**
+- **Inventorio (Fabric)**
+- **Inventory Management**
+- **Inventory Profiles Next**
+- **Inventory Sorting**
+- **Inventory Tabs (updated)**
+- **Inventory Tabs**
 - **Iris Shaders**
-- **BedrockIfy - Bedrock Features on Java!**
-- **Apothic Attributes (AttributesLib)**
+- **Iron Chests: Restocked**
+- **Item Collectors**
+- **Item Swapper**
+- **Jade**
+- **Just Enough Items (JEI)**
+- **Language Reload** (Thanks to Felix14-v2)
+- **Let's Do: Bakery**
+- **LevelZ**
+- **LibGui** (Thanks 17Js)
+- **LibZ** (Thanks to xlifi)
+- **Mekanism**
+- **Mighty Mail**
+- **Miner's Delight**
+- **Mod Menu**
+- **Moving Elevators**
+- **Music Electronic**
+- **Nemo's Woodcutter** (Thanks to nco2k)
+- **Nether Chest** (Thanks to nco2k)
+- **Nether Chested**
+- **No Chat Reports**
+- **Numismatic Overhaul**
+- **Origins**
+- **oωo (owo-lib)**
+- **Pack It Up!**
+- **Plasmo Voice**
+- **Polymorph (Fabric/Forge/Quilt)**
+- **Quark**
+- **Quick Menu**
+- **QuickStack**
+- **Raised**
+- **Recursive Resources** (Thanks to Felix14-v2)
+- **Replay Mod**
+- **RewardZ**
+- **RP Renames**
+- **Screenshot Viewer**
+- **Simple Voice Chat**
+- **SkinShuffle**
+- **Sophisticated Core**
+- **Stylish Effects**
+- **Supplementaries**
+- **The Bumblezone (Quilt/Fabric)**
+- **TieredZ**
+- **Tom's Simple Storage Mod**
+- **Tom's Trading Network**
+- **Trade Cycling**
+- **TrashSlot**
+- **Traveler's Backpack**
+- **Trick Update 1.20**
+- **Trinkets**
+- **Uncrafter**
+- **Unified Storage**
+- **Utility Belt**
+- **VillagerTimetable**
+- **Vinery**
+- **Waystones**
