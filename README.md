@@ -35,7 +35,7 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (118 Mods):**
+**This Resource Pack is compatible with the following Mods (123 Mods):**
 
 - **[ETF] Entity Texture Features**
 - **Ad Astra**
@@ -51,7 +51,7 @@ ______________________________
 - **BedrockIfy - Bedrock Features on Java!**
 - **Better Advancements**
 - **Better Anvil**
-- **Better Archeology**
+- **Better Archeology** (Thanks to nco2k)
 - **Better Command Block UI**
 - **Boundtiful**
 - **Capes [Fabric/Forge]**
@@ -68,6 +68,7 @@ ______________________________
 - **Crafting Slots**
 - **Create Encased**
 - **Create** (Thanks to xlifi)
+- **Culinary Construct (Forge/Fabric/Quilt)** (Thanks to nco2k)
 - **Curios API**
 - **Custom Capes**
 - **Easy Anvils**
@@ -77,7 +78,7 @@ ______________________________
 - **Enchanting Infuser**
 - **Energized Power**
 - **EssentialGUI**
-- **Even Better Archeology**
+- **Even Better Archeology** (Thanks to nco2k)
 - **Expanded Delight [Fabric]**
 - **Fabric API** (Thanks to xlifi)
 - **Fabric Musica**
@@ -89,7 +90,8 @@ ______________________________
 - **Galosphere**
 - **Golden Hopper**
 - **Heracles**
-- **Illager Invasion [Forge & Fabric]**
+- **Illager Invasion [Forge & Fabric]** (Thanks to nco2k)
+- **Immersive Aircraft**
 - **In-Game Account Switcher** (Thanks to WForst-Breeze)
 - **Inmis**
 - **Inventorio (Fabric)**
@@ -118,12 +120,12 @@ ______________________________
 - **Moving Elevators**
 - **Music Electronic**
 - **Nemo's Woodcutter** (Thanks to nco2k)
-- **Nether Chest**
+- **Nether Chest** (Thanks to nco2k)
 - **Nether Chested**
 - **No Chat Reports**
 - **Numismatic Overhaul**
 - **Origins**
-- **owo (owo-lib)**
+- **oωo (owo-lib)**
 - **Pack It Up!**
 - **Plasmo Voice**
 - **Polymorph (Fabric/Forge/Quilt)**
@@ -136,6 +138,7 @@ ______________________________
 - **RewardZ**
 - **RP Renames**
 - **Screenshot Viewer**
+- **Server Country Flags** (Thanks to nco2k)
 - **Simple Voice Chat**
 - **SkinShuffle**
 - **Sophisticated Core**
@@ -152,7 +155,9 @@ ______________________________
 - **Trinkets**
 - **Uncrafter**
 - **Unified Storage**
+- **Useful Saved Hotbars**
 - **Utility Belt**
 - **VillagerTimetable**
 - **Vinery**
 - **Waystones**
+- **What's That Slot?** (Thanks to nco2k)
