@@ -35,9 +35,10 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (123 Mods):**
+**This Resource Pack is compatible with the following Mods (128 Mods):**
 
 - **[ETF] Entity Texture Features**
+- **[Let's Do] HerbalBrews**
 - **Ad Astra**
 - **Adorn**
 - **Advancement Plaques**
@@ -53,6 +54,7 @@ ______________________________
 - **Better Anvil**
 - **Better Archeology** (Thanks to nco2k)
 - **Better Command Block UI**
+- **Bingo**
 - **Boundtiful**
 - **Capes [Fabric/Forge]**
 - **Catalog**
@@ -80,6 +82,7 @@ ______________________________
 - **EssentialGUI**
 - **Even Better Archeology** (Thanks to nco2k)
 - **Expanded Delight [Fabric]**
+- **Extreme sound muffler**
 - **Fabric API** (Thanks to xlifi)
 - **Fabric Musica**
 - **Fabric Waystones**
@@ -138,7 +141,9 @@ ______________________________
 - **RewardZ**
 - **RP Renames**
 - **Screenshot Viewer**
+- **Selectable Painting**
 - **Server Country Flags** (Thanks to nco2k)
+- **Show Me Your Skin!**
 - **Simple Voice Chat**
 - **SkinShuffle**
 - **Sophisticated Core**
@@ -161,3 +166,4 @@ ______________________________
 - **Vinery**
 - **Waystones**
 - **What's That Slot?** (Thanks to nco2k)
+- **Wooden Hopper**
