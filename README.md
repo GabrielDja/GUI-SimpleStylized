@@ -37,133 +37,133 @@ ______________________________
 
 **This Resource Pack is compatible with the following Mods (128 Mods):**
 
-- **[ETF] Entity Texture Features**
-- **[Let's Do] HerbalBrews**
-- **Ad Astra**
-- **Adorn**
-- **Advancement Plaques**
-- **Apothic Attributes (AttributesLib)**
-- **AppleSkin** (Thanks to xlifi)
-- **ArmorStatues**
-- **Auth Me** (Thanks to xlifi)
-- **Backpacked**
-- **BackSlot**
-- **Bartering Station**
-- **BedrockIfy - Bedrock Features on Java!**
-- **Better Advancements**
-- **Better Anvil**
-- **Better Archeology** (Thanks to nco2k)
-- **Better Command Block UI**
-- **Bingo**
-- **Boundtiful**
-- **Capes [Fabric/Forge]**
-- **Catalog**
-- **Chat Patches**
-- **Chest Tracker** (Thanks to 17Js)
-- **Chisels & Bits**
-- **Compact Storage**
-- **Completionist's Index**
-- **ContainerSearcher**
-- **Copper Hopper**
-- **Corpse**
-- **Crabber's Delight**
-- **Crafting Slots**
-- **Create Encased**
-- **Create** (Thanks to xlifi)
-- **Culinary Construct (Forge/Fabric/Quilt)** (Thanks to nco2k)
-- **Curios API**
-- **Custom Capes**
-- **Easy Anvils**
-- **Easy Magic** (Thanks to WForst-Breeze)
-- **Easy Villagers**
-- **EMI** (Thanks to xlifi)
-- **Enchanting Infuser**
-- **Energized Power**
-- **EssentialGUI**
-- **Even Better Archeology** (Thanks to nco2k)
-- **Expanded Delight [Fabric]**
-- **Extreme sound muffler**
-- **Fabric API** (Thanks to xlifi)
-- **Fabric Musica**
-- **Fabric Waystones**
-- **Farmer's Delight [Fabric]**
-- **Farmer's Respite (Fabric)**
-- **Fast Trading**
-- **FiltPick**
-- **Galosphere**
-- **Golden Hopper**
-- **Heracles**
-- **Illager Invasion [Forge & Fabric]** (Thanks to nco2k)
-- **Immersive Aircraft**
-- **In-Game Account Switcher** (Thanks to WForst-Breeze)
-- **Inmis**
-- **Inventorio (Fabric)**
-- **Inventory Management**
-- **Inventory Pets**
-- **Inventory Profiles Next**
-- **Inventory Sorting**
-- **Inventory Tabs (updated)**
-- **Inventory Tabs**
-- **Iris Shaders**
-- **Iron Chests: Restocked**
-- **Item Collectors**
-- **Item Swapper**
-- **Jade**
-- **Just Enough Items (JEI)**
-- **Language Reload** (Thanks to Felix14-v2)
-- **Let's Do: Bakery**
-- **LevelZ**
-- **LibGui** (Thanks 17Js)
-- **LibZ** (Thanks to xlifi)
-- **Mekanism**
-- **MidnightControls**
-- **Mighty Mail**
-- **Miner's Delight**
-- **Mod Menu**
-- **Moving Elevators**
-- **Music Electronic**
-- **Nemo's Woodcutter** (Thanks to nco2k)
-- **Nether Chest** (Thanks to nco2k)
-- **Nether Chested**
-- **No Chat Reports**
-- **Numismatic Overhaul**
-- **Origins**
-- **oωo (owo-lib)**
-- **Pack It Up!**
-- **Plasmo Voice**
-- **Polymorph (Fabric/Forge/Quilt)**
-- **Quark**
-- **Quick Menu**
-- **QuickStack**
-- **Raised**
-- **Recursive Resources** (Thanks to Felix14-v2)
-- **Replay Mod**
-- **RewardZ**
-- **RP Renames**
-- **Screenshot Viewer**
-- **Selectable Painting**
-- **Server Country Flags** (Thanks to nco2k)
-- **Show Me Your Skin!**
-- **Simple Voice Chat**
-- **SkinShuffle**
-- **Sophisticated Core**
-- **Stylish Effects**
-- **Supplementaries**
-- **The Bumblezone (Quilt/Fabric)**
-- **TieredZ**
-- **Tom's Simple Storage Mod**
-- **Tom's Trading Network**
-- **Trade Cycling**
-- **TrashSlot**
-- **Traveler's Backpack**
-- **Trick Update 1.20**
-- **Trinkets**
-- **Uncrafter**
-- **Unified Storage**
-- **Useful Saved Hotbars**
-- **Utility Belt**
-- **VillagerTimetable**
-- **Vinery**
-- **Waystones**
-- **What's That Slot?** (Thanks to nco2k)
-- **Wooden Hopper**
+- [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+- [[Let's Do] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews)
+- [[Let's Do] Vinery](https://modrinth.com/mod/lets-do-vinery)
+- [Ad Astra](https://modrinth.com/mod/ad-astra)
+- [Adorn](https://modrinth.com/mod/adorn)
+- [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
+- [Apothic Attributes (AttributesLib)](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)
+- [AppleSkin](https://modrinth.com/mod/appleskin) (Thanks to xlifi)
+- [ArmorStatues](https://modrinth.com/mod/armor-statues)
+- [Auth Me](https://modrinth.com/mod/auth-me) (Thanks to xlifi)
+- [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
+- [BackSlot](https://modrinth.com/mod/backslot)
+- [Bartering Station](https://modrinth.com/mod/bartering-station)
+- [BedrockIfy - Bedrock Features on Java!](https://modrinth.com/mod/bedrockify)
+- [Better Advancements](https://modrinth.com/mod/better-advancements)
+- [Better Anvil](https://modrinth.com/mod/better-anvil)
+- [Better Archeology](https://modrinth.com/mod/better-archeology) (Thanks to nco2k)
+- [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui)
+- [Bingo](https://modrinth.com/mod/bingo-mod)
+- [Boundtiful](https://modrinth.com/mod/bountiful)
+- [Capes [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/capes)
+- [Catalogue [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/catalogue)
+- [Chat Patches](https://modrinth.com/mod/chatpatches)
+- [Chest Tracker](https://modrinth.com/mod/chest-tracker) (Thanks to 17Js)
+- [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+- [Compact Storage](https://modrinth.com/mod/compact-storage)
+- [Completionist's Index](https://modrinth.com/mod/completionists-index)
+- [ContainerSearcher](https://modrinth.com/mod/csearcher)
+- [Copper Hopper](https://modrinth.com/mod/copper-hopper)
+- [Corpse](https://modrinth.com/mod/corpse)
+- [Crabber's Delight](https://modrinth.com/mod/crabbers-delight)
+- [Crafting Slots](https://modrinth.com/mod/crafting-slots)
+- [Create Encased](https://modrinth.com/mod/create-encased)
+- [Create](https://modrinth.com/mod/create) (Thanks to xlifi)
+- [Culinary Construct](https://modrinth.com/mod/culinary-construct) (Thanks to nco2k)
+- [Curios API](https://modrinth.com/mod/curios)
+- [Custom Capes](https://modrinth.com/mod/custom-capes)
+- [Easy Anvils](https://modrinth.com/mod/easy-anvils)
+- [Easy Magic](https://modrinth.com/mod/easy-magic) (Thanks to WForst-Breeze)
+- [Easy Villagers](https://modrinth.com/mod/easy-villagers)
+- [EMI](https://modrinth.com/mod/emi) (Thanks to xlifi)
+- [Enchanting Infuser](https://modrinth.com/mod/enchanting-infuser)
+- [Energized Power](https://modrinth.com/mod/energized-power)
+- [EssentialGUI](https://modrinth.com/mod/essentialgui)
+- [Even Better Archeology](https://modrinth.com/mod/even-better-archeology) (Thanks to nco2k)
+- [Expanded Delight [Fabric]](https://modrinth.com/mod/expanded-delight)
+- [Extreme sound muffler](https://modrinth.com/mod/extreme_sound_muffler)
+- [Fabric API](https://modrinth.com/mod/fabric-api) (Thanks to xlifi)
+- [Fabric Musica](https://www.curseforge.com/minecraft/mc-mods/fabric-musica)
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+- [Farmer's Respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)
+- [Fast Trading](https://modrinth.com/mod/fast-trading)
+- [FiltPick](https://modrinth.com/mod/filtpick)
+- [Galosphere](https://modrinth.com/mod/galosphere)
+- [Golden Hopper](https://www.curseforge.com/minecraft/mc-mods/golden-hopper)
+- [Heracles](https://modrinth.com/mod/heracles)
+- [Illager Invasion](https://modrinth.com/mod/illager-invasion) (Thanks to nco2k)
+- [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft)
+- [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) (Thanks to WForst-Breeze)
+- [Inmis](https://modrinth.com/mod/inmis)
+- [Inventorio](https://modrinth.com/mod/inventorio)
+- [Inventory Management](https://modrinth.com/mod/inventory-management)
+- [Inventory Pets](https://www.curseforge.com/minecraft/mc-mods/inventory-pets)
+- [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
+- [Inventory Sorting](https://modrinth.com/mod/inventory-sorting)
+- [Inventory Tabs (updated)](https://modrinth.com/mod/inventory-tabs-updated)
+- [Inventory Tabs](https://modrinth.com/mod/inventory-tabs)
+- [Iris Shaders](https://modrinth.com/mod/iris)
+- [Iron Chests: Restocked](https://modrinth.com/mod/ironchests)
+- [Item Collectors](https://modrinth.com/mod/item-collectors)
+- [Item Swapper](https://modrinth.com/plugin/itemswapper)
+- [Jade](https://modrinth.com/mod/jade)
+- [Just Enough Items (JEI)](https://modrinth.com/mod/jei)
+- [Language Reload](https://modrinth.com/mod/language-reload) (Thanks to Felix14-v2)
+- [Let's Do: Bakery](https://modrinth.com/mod/lets-do-bakery)
+- [LevelZ](https://modrinth.com/mod/levelz)
+- [LibGui](https://www.curseforge.com/minecraft/mc-mods/libgui) (Thanks 17Js)
+- [LibZ](https://modrinth.com/mod/libz) (Thanks to xlifi)
+- [Mekanism](https://modrinth.com/mod/mekanism)
+- [MidnightControls](https://modrinth.com/mod/midnightcontrols)
+- [Mighty Mail [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/mighty-mail-fabric)
+- [Miner's Delight](https://modrinth.com/mod/miners-delight)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [Moving Elevators](https://modrinth.com/mod/moving-elevators)
+- [Music Electronic](https://modrinth.com/mod/music-electronic-mod)
+- [Nemo's Woodcutter](https://modrinth.com/mod/nemos-woodcutter) (Thanks to nco2k)
+- [Nether Chest](https://modrinth.com/mod/nether-chest) (Thanks to nco2k)
+- [Nether Chested](https://modrinth.com/mod/new-nether-chest)
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [Numismatic Overhaul](https://modrinth.com/mod/numismatic-overhaul)
+- [Origins](https://modrinth.com/mod/origins)
+- [oωo (owo-lib)](https://modrinth.com/mod/owo-lib)
+- [Pack It Up!](https://modrinth.com/mod/pack-it-up)
+- [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice)
+- [Polymorph](https://modrinth.com/mod/polymorph)
+- [Quark](https://modrinth.com/mod/quark)
+- [Quick Menu](https://modrinth.com/mod/quick-menu)
+- [QuickStack](https://modrinth.com/mod/quickstack)
+- [Raised](https://modrinth.com/mod/raised)
+- [Recursive Resources](https://modrinth.com/mod/recursiveresources) (Thanks to Felix14-v2)
+- [Replay Mod](https://modrinth.com/mod/replaymod)
+- [RewardZ](https://modrinth.com/mod/rewardz)
+- [RP Renames](https://modrinth.com/mod/rp-renames)
+- [Screenshot Viewer](https://modrinth.com/mod/screenshot-viewer)
+- [Selectable Painting](https://modrinth.com/mod/selectable-painting)
+- [Server Country Flags](https://modrinth.com/mod/server-country-flags) (Thanks to nco2k)
+- [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin)
+- [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
+- [SkinShuffle](https://modrinth.com/mod/skinshuffle)
+- [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
+- [Stylish Effects](https://modrinth.com/mod/stylish-effects)
+- [Supplementaries](https://modrinth.com/mod/supplementaries)
+- [The Bumblezone (Quilt/Fabric)](https://modrinth.com/mod/the-bumblezone-fabric)
+- [TieredZ](https://modrinth.com/mod/tieredz)
+- [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
+- [Tom's Trading Network](https://modrinth.com/mod/toms-trading-network)
+- [Trade Cycling](https://modrinth.com/mod/trade-cycling)
+- [TrashSlot](https://modrinth.com/mod/trashslot)
+- [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack)
+- [Trick Update 1.20 - Not Official](https://modrinth.com/mod/trick_update_1-20)
+- [Trinkets](https://modrinth.com/mod/trinkets)
+- [Uncrafter](https://modrinth.com/mod/uncrafter)
+- [Unified Storage](https://modrinth.com/mod/unifiedstorage)
+- [Useful Saved Hotbars](https://modrinth.com/mod/useful-saved-hotbars)
+- [Utility Belt](https://modrinth.com/mod/utility-belt)
+- [VillagerTimetable](https://modrinth.com/mod/villagertimetable)
+- [Waystones](https://modrinth.com/mod/waystones)
+- [What's That Slot?](https://modrinth.com/mod/whats-that-slot) (Thanks to nco2k)
+- [Wooden Hopper](https://modrinth.com/mod/wooden-hopper)
+- [Wraith Waystones](https://modrinth.com/mod/fwaystones)
