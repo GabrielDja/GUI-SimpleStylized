@@ -35,7 +35,7 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (128 Mods):**
+**This Resource Pack is compatible with the following Mods (132 Mods):**
 
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [[Let's Do] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews)
@@ -74,6 +74,8 @@ ______________________________
 - [Culinary Construct](https://modrinth.com/mod/culinary-construct) (Thanks to nco2k)
 - [Curios API](https://modrinth.com/mod/curios)
 - [Custom Capes](https://modrinth.com/mod/custom-capes)
+- [DeathLog](https://modrinth.com/mod/deathlog)
+- [Disenchanter](https://modrinth.com/mod/disenchanter)
 - [Easy Anvils](https://modrinth.com/mod/easy-anvils)
 - [Easy Magic](https://modrinth.com/mod/easy-magic) (Thanks to WForst-Breeze)
 - [Easy Villagers](https://modrinth.com/mod/easy-villagers)
@@ -120,6 +122,7 @@ ______________________________
 - [Mighty Mail [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/mighty-mail-fabric)
 - [Miner's Delight](https://modrinth.com/mod/miners-delight)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
+- [Molitoola's Cheat Menu](https://www.curseforge.com/minecraft/mc-mods/molitoolas-cheat-menu)
 - [Moving Elevators](https://modrinth.com/mod/moving-elevators)
 - [Music Electronic](https://modrinth.com/mod/music-electronic-mod)
 - [Nemo's Woodcutter](https://modrinth.com/mod/nemos-woodcutter) (Thanks to nco2k)
