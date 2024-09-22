@@ -35,7 +35,7 @@ ______________________________
 [Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
 ______________________________
 
-**This Resource Pack is compatible with the following Mods (132 Mods):**
+**This Resource Pack is compatible with the following Mods (135 Mods):**
 
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [[Let's Do] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews)
@@ -45,6 +45,7 @@ ______________________________
 - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
 - [Apothic Attributes (AttributesLib)](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)
 - [AppleSkin](https://modrinth.com/mod/appleskin) (Thanks to xlifi)
+- [Armor Poser](https://modrinth.com/mod/armor-poser)
 - [ArmorStatues](https://modrinth.com/mod/armor-statues)
 - [Auth Me](https://modrinth.com/mod/auth-me) (Thanks to xlifi)
 - [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
@@ -56,6 +57,7 @@ ______________________________
 - [Better Archeology](https://modrinth.com/mod/better-archeology) (Thanks to nco2k)
 - [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui)
 - [Bingo](https://modrinth.com/mod/bingo-mod)
+- [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
 - [Boundtiful](https://modrinth.com/mod/bountiful)
 - [Capes [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/capes)
 - [Catalogue [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/catalogue)
@@ -147,6 +149,7 @@ ______________________________
 - [Selectable Painting](https://modrinth.com/mod/selectable-painting)
 - [Server Country Flags](https://modrinth.com/mod/server-country-flags) (Thanks to nco2k)
 - [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin)
+- [Simple Uncrafting Table](https://modrinth.com/mod/simple-uncrafting-table)
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 - [SkinShuffle](https://modrinth.com/mod/skinshuffle)
 - [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
