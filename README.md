@@ -16,28 +16,19 @@ Thanks to All!
 - audioL (Curseforge)
 - nco2k
 
-# Download
-
-CurseForge : https://www.curseforge.com/minecraft/texture-packs/gui-simplestylized
-
+# Download  
+CurseForge : https://www.curseforge.com/minecraft/texture-packs/gui-simplestylized  
 Modrinth : https://modrinth.com/resourcepack/gui-simplestylized
 
-______________________________
-
 # LICENSE (CC-BY-NC-4.0)
-
 This pack was created by **GabrielDja**,
 Please credit the creator when using the pack in public.
-______________________________
 
-# Wiki  
+## [Link to Wiki](https://gabriel-djalayer.gitbook.io/gdteam-wiki/projects/ressource-packs/gui-simplestylized)
 
-[Link to Wiki](https://gabriel-djalayer.gitbook.io/djaminimation-studio-wiki/liste-des-creations/gui-simplestylized)
-______________________________
-
-**This Resource Pack is compatible with the following Mods (135 Mods):**
-
+**This Resource Pack is compatible with the following Mods (140 Mods):**
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+- [[Let's Do] Brewery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-brewery-farmcharm-compat)
 - [[Let's Do] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews)
 - [[Let's Do] Vinery](https://modrinth.com/mod/lets-do-vinery)
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
@@ -62,6 +53,7 @@ ______________________________
 - [Capes [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/capes)
 - [Catalogue [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/catalogue)
 - [Chat Patches](https://modrinth.com/mod/chatpatches)
+- [Cherished Worlds](https://modrinth.com/mod/cherished-worlds)
 - [Chest Tracker](https://modrinth.com/mod/chest-tracker) (Thanks to 17Js)
 - [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
 - [Compact Storage](https://modrinth.com/mod/compact-storage)
@@ -94,6 +86,7 @@ ______________________________
 - [Farmer's Respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)
 - [Fast Trading](https://modrinth.com/mod/fast-trading)
 - [FiltPick](https://modrinth.com/mod/filtpick)
+- [Furnish](https://modrinth.com/mod/furnish-furniture)
 - [Galosphere](https://modrinth.com/mod/galosphere)
 - [Golden Hopper](https://www.curseforge.com/minecraft/mc-mods/golden-hopper)
 - [Heracles](https://modrinth.com/mod/heracles)
@@ -121,7 +114,7 @@ ______________________________
 - [LibZ](https://modrinth.com/mod/libz) (Thanks to xlifi)
 - [Mekanism](https://modrinth.com/mod/mekanism)
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols)
-- [Mighty Mail [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/mighty-mail-fabric)
+- [Mighty Mail [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/mighty-mail)
 - [Miner's Delight](https://modrinth.com/mod/miners-delight)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Molitoola's Cheat Menu](https://www.curseforge.com/minecraft/mc-mods/molitoolas-cheat-menu)
@@ -132,6 +125,7 @@ ______________________________
 - [Nether Chested](https://modrinth.com/mod/new-nether-chest)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [Numismatic Overhaul](https://modrinth.com/mod/numismatic-overhaul)
+- [OpenItemPuller](https://modrinth.com/mod/openitempuller)
 - [Origins](https://modrinth.com/mod/origins)
 - [oωo (owo-lib)](https://modrinth.com/mod/owo-lib)
 - [Pack It Up!](https://modrinth.com/mod/pack-it-up)
@@ -173,3 +167,4 @@ ______________________________
 - [What's That Slot?](https://modrinth.com/mod/whats-that-slot) (Thanks to nco2k)
 - [Wooden Hopper](https://modrinth.com/mod/wooden-hopper)
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
+- [Just Enough Resources (JER)](https://modrinth.com/mod/just-enough-resources-jer)
