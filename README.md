@@ -1,10 +1,28 @@
 # GUI SimpleStylized
-
-![GitHub all releases](https://img.shields.io/github/downloads/GabrielDja/GUI-SimpleStylized/total?style=flat-square&label=Downloads%20on%20Github&color=green)  
-
 Improves User Interfaces in Dark Mode and with square edges
 
-![GUI-SimpleStylized_Concept](https://static.wixstatic.com/media/31958c_50fc019737864dc4a5d67d4f97ddcede~mv2.jpg/v1/fill/w_646,h_367,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/GUI-SimpleStylized_New-Banner.jpg)
+[![Wiki Badge](https://img.shields.io/badge/-WIKI-429328?style=for-the-badge&logo=GitBook&logoColor=white)](https://gabriel-djalayer.gitbook.io/gdteam-wiki/creations/ressource-pack/gui-simplestylized)
+[![GitHub all releases](https://img.shields.io/github/downloads/GabrielDja/GUI-SimpleStylized/total?style=for-the-badge&logo=github&label=Downloads%20on%20Github&labelColor=2c2c2c&dark_gray&color=429328)]()
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/832502?style=for-the-badge&logo=curseforge&labelColor=2c2c2c&color=429328)](https://www.curseforge.com/minecraft/texture-packs/gui-simplestylized)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/gui-simplestylized?style=for-the-badge&logo=modrinth&labelColor=2c2c2c&color=429328)](https://modrinth.com/resourcepack/gui-simplestylized)
+
+[![GUI-SimpleStylized_New-Banner_V2](https://static.wixstatic.com/media/31958c_a672be9b3033458bb55744b92734ace2~mv2.png)]()
+
+<details>
+<summary>📑 Terms of Use</summary>
+
+You can:
+- ✅ Use this pack on your server or modpack!
+- ✅ Use this pack in videos or live broadcasts (YouTube, Twitch, etc.) you can embed a link in the description, but it's not necessary.
+- ✅ Modify the pack for personal use.
+- ✅ You can re-use certain resources from my pack in yours and share it, there's no problem, but you'll have to credit me and add a link to the original project, so for example here. (warning: not everything, otherwise it is considered a redistribution)
+
+You may not:
+- ❌ Redistribute this pack on other platforms.
+
+**These rules may be modified at any time, if necessary.**
+
+</details>
 
 # Contributors
 Thanks to All!
@@ -26,7 +44,7 @@ Please credit the creator when using the pack in public.
 
 ## [Link to Wiki](https://gabriel-djalayer.gitbook.io/gdteam-wiki/projects/ressource-packs/gui-simplestylized)
 
-**This Resource Pack is compatible with the following Mods (140 Mods):**
+**This Resource Pack is compatible with the following Mods (146 Mods):**
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [[Let's Do] Brewery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-brewery-farmcharm-compat)
 - [[Let's Do] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews)
@@ -34,6 +52,7 @@ Please credit the creator when using the pack in public.
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
 - [Adorn](https://modrinth.com/mod/adorn)
 - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
+- [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)
 - [Apothic Attributes (AttributesLib)](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)
 - [AppleSkin](https://modrinth.com/mod/appleskin) (Thanks to xlifi)
 - [Armor Poser](https://modrinth.com/mod/armor-poser)
@@ -50,6 +69,7 @@ Please credit the creator when using the pack in public.
 - [Bingo](https://modrinth.com/mod/bingo-mod)
 - [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
 - [Boundtiful](https://modrinth.com/mod/bountiful)
+- [Camera Utils](https://modrinth.com/mod/camera-utils)
 - [Capes [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/capes)
 - [Catalogue [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/catalogue)
 - [Chat Patches](https://modrinth.com/mod/chatpatches)
@@ -89,6 +109,7 @@ Please credit the creator when using the pack in public.
 - [Furnish](https://modrinth.com/mod/furnish-furniture)
 - [Galosphere](https://modrinth.com/mod/galosphere)
 - [Golden Hopper](https://www.curseforge.com/minecraft/mc-mods/golden-hopper)
+- [Grappling Hook Mod: Restitched](https://modrinth.com/mod/grappling-hook-mod-fabric)
 - [Heracles](https://modrinth.com/mod/heracles)
 - [Illager Invasion](https://modrinth.com/mod/illager-invasion) (Thanks to nco2k)
 - [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft)
@@ -107,11 +128,13 @@ Please credit the creator when using the pack in public.
 - [Item Swapper](https://modrinth.com/plugin/itemswapper)
 - [Jade](https://modrinth.com/mod/jade)
 - [Just Enough Items (JEI)](https://modrinth.com/mod/jei)
+- [Just Enough Resources (JER)](https://modrinth.com/mod/just-enough-resources-jer)
 - [Language Reload](https://modrinth.com/mod/language-reload) (Thanks to Felix14-v2)
 - [Let's Do: Bakery](https://modrinth.com/mod/lets-do-bakery)
 - [LevelZ](https://modrinth.com/mod/levelz)
 - [LibGui](https://www.curseforge.com/minecraft/mc-mods/libgui) (Thanks 17Js)
 - [LibZ](https://modrinth.com/mod/libz) (Thanks to xlifi)
+- [Lightweight Inventory Sorting](https://modrinth.com/mod/lightweight-inventory-sorting)
 - [Mekanism](https://modrinth.com/mod/mekanism)
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols)
 - [Mighty Mail [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/mighty-mail)
@@ -127,6 +150,7 @@ Please credit the creator when using the pack in public.
 - [Numismatic Overhaul](https://modrinth.com/mod/numismatic-overhaul)
 - [OpenItemPuller](https://modrinth.com/mod/openitempuller)
 - [Origins](https://modrinth.com/mod/origins)
+- [Oritech](https://modrinth.com/mod/oritech)
 - [oωo (owo-lib)](https://modrinth.com/mod/owo-lib)
 - [Pack It Up!](https://modrinth.com/mod/pack-it-up)
 - [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice)
@@ -137,6 +161,7 @@ Please credit the creator when using the pack in public.
 - [Raised](https://modrinth.com/mod/raised)
 - [Recursive Resources](https://modrinth.com/mod/recursiveresources) (Thanks to Felix14-v2)
 - [Replay Mod](https://modrinth.com/mod/replaymod)
+- [Resource Backpack's](https://modrinth.com/mod/resource-backpacks)
 - [RewardZ](https://modrinth.com/mod/rewardz)
 - [RP Renames](https://modrinth.com/mod/rp-renames)
 - [Screenshot Viewer](https://modrinth.com/mod/screenshot-viewer)
@@ -167,4 +192,3 @@ Please credit the creator when using the pack in public.
 - [What's That Slot?](https://modrinth.com/mod/whats-that-slot) (Thanks to nco2k)
 - [Wooden Hopper](https://modrinth.com/mod/wooden-hopper)
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
-- [Just Enough Resources (JER)](https://modrinth.com/mod/just-enough-resources-jer)
