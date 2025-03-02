@@ -2,6 +2,6 @@
   "pack": {
     "pack_format": 19,
     "supported_formats": {"min_inclusive": 19, "max_inclusive": 34},
-    "description": "§6§lGUI SimpleStylized§r - §d§l1.21+ §r§b- §r§l§d[§b§lBy GabrielDja§r§l§d]"
+    "description": "§a§lGUI SimpleStylized §rfor §7§o1.21+ §9[§dBy GabrielDja§9]"
   }
 }

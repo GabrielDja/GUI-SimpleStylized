@@ -44,14 +44,16 @@ Please credit the creator when using the pack in public.
 
 ## [Link to Wiki](https://gabriel-djalayer.gitbook.io/gdteam-wiki/projects/ressource-packs/gui-simplestylized)
 
-**This Resource Pack is compatible with the following Mods (146 Mods):**
+**This Resource Pack is compatible with the following Mods (150 Mods):**
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [[Let's Do] Brewery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-brewery-farmcharm-compat)
 - [[Let's Do] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews)
 - [[Let's Do] Vinery](https://modrinth.com/mod/lets-do-vinery)
+- [Accessories](https://modrinth.com/mod/accessories)
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
 - [Adorn](https://modrinth.com/mod/adorn)
 - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
+- [Alex's Caves](https://modrinth.com/mod/alexs-caves)
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)
 - [Apothic Attributes (AttributesLib)](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)
 - [AppleSkin](https://modrinth.com/mod/appleskin) (Thanks to xlifi)
@@ -153,6 +155,7 @@ Please credit the creator when using the pack in public.
 - [Oritech](https://modrinth.com/mod/oritech)
 - [oωo (owo-lib)](https://modrinth.com/mod/owo-lib)
 - [Pack It Up!](https://modrinth.com/mod/pack-it-up)
+- [Patbox's Brewery](https://modrinth.com/mod/brewery)
 - [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice)
 - [Polymorph](https://modrinth.com/mod/polymorph)
 - [Quark](https://modrinth.com/mod/quark)
@@ -164,6 +167,7 @@ Please credit the creator when using the pack in public.
 - [Resource Backpack's](https://modrinth.com/mod/resource-backpacks)
 - [RewardZ](https://modrinth.com/mod/rewardz)
 - [RP Renames](https://modrinth.com/mod/rp-renames)
+- [Sawmill](https://www.curseforge.com/minecraft/mc-mods/sawmill)
 - [Screenshot Viewer](https://modrinth.com/mod/screenshot-viewer)
 - [Selectable Painting](https://modrinth.com/mod/selectable-painting)
 - [Server Country Flags](https://modrinth.com/mod/server-country-flags) (Thanks to nco2k)
