@@ -8,24 +8,10 @@ Improves User Interfaces in Dark Mode and with square edges
 
 [![GUI-SimpleStylized_New-Banner_V2](https://static.wixstatic.com/media/31958c_a672be9b3033458bb55744b92734ace2~mv2.png)]()
 
-<details>
-<summary>📑 Terms of Use</summary>
-
-You can:
-- ✅ Use this pack on your server or modpack!
-- ✅ Use this pack in videos or live broadcasts (YouTube, Twitch, etc.) you can embed a link in the description, but it's not necessary.
-- ✅ Modify the pack for personal use.
-- ✅ You can re-use certain resources from my pack in yours and share it, there's no problem, but you'll have to credit me and add a link to the original project, so for example here. (warning: not everything, otherwise it is considered a redistribution)
-
-You may not:
-- ❌ Redistribute this pack on other platforms.
-
-**These rules may be modified at any time, if necessary.**
-
-</details>
+📑 [Terms of Use](https://gabriel-djalayer.gitbook.io/gdteam-wiki/guides/licenses#gui-simplestylized)
 
 # Contributors
-Thanks to All!
+Thanks to all!
 
 - xlifi
 - WForst-Breeze
@@ -44,7 +30,7 @@ Please credit the creator when using the pack in public.
 
 ## [Link to Wiki](https://gabriel-djalayer.gitbook.io/gdteam-wiki/projects/ressource-packs/gui-simplestylized)
 
-**This Resource Pack is compatible with the following Mods (150 Mods):**
+**This Resource Pack is compatible with the following Mods (154 Mods):**
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [[Let's Do] Brewery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-brewery-farmcharm-compat)
 - [[Let's Do] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews)
@@ -60,6 +46,7 @@ Please credit the creator when using the pack in public.
 - [Armor Poser](https://modrinth.com/mod/armor-poser)
 - [ArmorStatues](https://modrinth.com/mod/armor-statues)
 - [Auth Me](https://modrinth.com/mod/auth-me) (Thanks to xlifi)
+- [Axiom](https://modrinth.com/mod/axiom)
 - [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
 - [BackSlot](https://modrinth.com/mod/backslot)
 - [Bartering Station](https://modrinth.com/mod/bartering-station)
@@ -72,12 +59,14 @@ Please credit the creator when using the pack in public.
 - [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
 - [Boundtiful](https://modrinth.com/mod/bountiful)
 - [Camera Utils](https://modrinth.com/mod/camera-utils)
+- [Camerapture](https://modrinth.com/mod/camerapture)
 - [Capes [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/capes)
 - [Catalogue [Fabric/Forge]](https://www.curseforge.com/minecraft/mc-mods/catalogue)
 - [Chat Patches](https://modrinth.com/mod/chatpatches)
 - [Cherished Worlds](https://modrinth.com/mod/cherished-worlds)
 - [Chest Tracker](https://modrinth.com/mod/chest-tracker) (Thanks to 17Js)
 - [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+- [Combat Roll](https://modrinth.com/mod/combat-roll)
 - [Compact Storage](https://modrinth.com/mod/compact-storage)
 - [Completionist's Index](https://modrinth.com/mod/completionists-index)
 - [ContainerSearcher](https://modrinth.com/mod/csearcher)
@@ -180,6 +169,7 @@ Please credit the creator when using the pack in public.
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [The Bumblezone (Quilt/Fabric)](https://modrinth.com/mod/the-bumblezone-fabric)
 - [TieredZ](https://modrinth.com/mod/tieredz)
+- [Toggleable Enchantments](https://modrinth.com/mod/toggleable-enchantments)
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
 - [Tom's Trading Network](https://modrinth.com/mod/toms-trading-network)
 - [Trade Cycling](https://modrinth.com/mod/trade-cycling)
