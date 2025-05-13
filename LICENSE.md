@@ -1,7 +1,8 @@
-LICENSE **(CC-BY-NC-4.0)**
+[Read the terms of use](https://gabriel-djalayer.gitbook.io/gdteam-wiki/guides/licenses#gui-simplestylized)
 
-**This pack was created by GabrielDja,**  
-Please credit the creator when using the pack in public.
+---
+
+This pack was created by GabrielDja.
 
 **LINKS**  
 Website : https://gabrieldjalayer.wixsite.com/gabrieldja-gaming-yt  
