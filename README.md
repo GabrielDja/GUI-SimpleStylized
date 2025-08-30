@@ -1,5 +1,5 @@
 # GUI SimpleStylized
-Improves User Interfaces in Dark Mode and with square edges
+Enhanced user interface in dark mode with square edges.
 
 [![Wiki Badge](https://img.shields.io/badge/-WIKI-429328?style=for-the-badge&logo=GitBook&logoColor=white)](https://gabriel-djalayer.gitbook.io/gdteam-wiki/creations/ressource-pack/gui-simplestylized)
 [![GitHub all releases](https://img.shields.io/github/downloads/GabrielDja/GUI-SimpleStylized/total?style=for-the-badge&logo=github&label=Downloads%20on%20Github&labelColor=2c2c2c&dark_gray&color=429328)]()
@@ -30,7 +30,7 @@ Please credit the creator when using the pack in public.
 
 ## [Link to Wiki](https://gabriel-djalayer.gitbook.io/gdteam-wiki/projects/ressource-packs/gui-simplestylized)
 
-**This Resource Pack is compatible with the following Mods (154 Mods):**
+**This Resource Pack is compatible with the following Mods (159 Mods):**
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [[Let's Do] Brewery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-brewery-farmcharm-compat)
 - [[Let's Do] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews)
@@ -38,6 +38,7 @@ Please credit the creator when using the pack in public.
 - [Accessories](https://modrinth.com/mod/accessories)
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
 - [Adorn](https://modrinth.com/mod/adorn)
+- [Advanced Loot Info](https://modrinth.com/mod/advanced-loot-info)
 - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves)
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)
@@ -98,10 +99,12 @@ Please credit the creator when using the pack in public.
 - [Fast Trading](https://modrinth.com/mod/fast-trading)
 - [FiltPick](https://modrinth.com/mod/filtpick)
 - [Furnish](https://modrinth.com/mod/furnish-furniture)
+- [Gallery](https://modrinth.com/mod/gallery)
 - [Galosphere](https://modrinth.com/mod/galosphere)
 - [Golden Hopper](https://www.curseforge.com/minecraft/mc-mods/golden-hopper)
 - [Grappling Hook Mod: Restitched](https://modrinth.com/mod/grappling-hook-mod-fabric)
 - [Heracles](https://modrinth.com/mod/heracles)
+- [Hopper Gadgetry](https://modrinth.com/mod/hopper-gadgetry)
 - [Illager Invasion](https://modrinth.com/mod/illager-invasion) (Thanks to nco2k)
 - [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft)
 - [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) (Thanks to WForst-Breeze)
@@ -165,6 +168,7 @@ Please credit the creator when using the pack in public.
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 - [SkinShuffle](https://modrinth.com/mod/skinshuffle)
 - [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
+- [Storage Drawers](https://modrinth.com/mod/storagedrawers)
 - [Stylish Effects](https://modrinth.com/mod/stylish-effects)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [The Bumblezone (Quilt/Fabric)](https://modrinth.com/mod/the-bumblezone-fabric)
@@ -186,3 +190,4 @@ Please credit the creator when using the pack in public.
 - [What's That Slot?](https://modrinth.com/mod/whats-that-slot) (Thanks to nco2k)
 - [Wooden Hopper](https://modrinth.com/mod/wooden-hopper)
 - [Wraith Waystones](https://modrinth.com/mod/fwaystones)
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
