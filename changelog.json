@@ -1,5 +1,28 @@
 GUI SimpleStylized - Changelog (French)
 
+5.4
+La version 1.20 n'est plus prise en charge.
+
+⚡Nouveau mod pris en charge:
+- Ajout de la prise en charge pour "Advanced Loot Info" (Via Mod's Suggestion Form)
+- Ajout de la prise en charge pour "Storage Drawers" (Via Mod's Suggestion Form)
+- Ajout de la prise en charge pour "Gallery" (Via Mod's Suggestion Form)
+- Ajout de la prise en charge pour "Xaero's Minimap" (Via Github)
+- Ajout de la prise en charge pour "Hopper Gadgetry"
+
+📜Nouveaux addons:
+- 
+
+🛠️Changements:
+- Prend en charge la version 64 (1.21.7-1.21.8)
+- Mise à jour des textures pour "Curios API"
+- Mise à jour des textures pour "[Let's Do] Brewery - Farm&Charm Compat"
+
+🐛Corrections:
+- Some vanilla interfaces were missing.
+
+159 Mods compatibles au total!
+---------------------
 5.3
 ⚡Nouveau mod pris en charge:
 - Ajout de la prise en charge pour "Axiom" (Via Github)
