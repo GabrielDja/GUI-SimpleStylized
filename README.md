@@ -6,30 +6,16 @@ Enhanced user interface in dark mode with square edges.
 [![CurseForge Downloads](https://img.shields.io/curseforge/dt/832502?style=for-the-badge&logo=curseforge&labelColor=2c2c2c&color=429328)](https://www.curseforge.com/minecraft/texture-packs/gui-simplestylized)
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/gui-simplestylized?style=for-the-badge&logo=modrinth&labelColor=2c2c2c&color=429328)](https://modrinth.com/resourcepack/gui-simplestylized)
 
-[![GUI-SimpleStylized_New-Banner_V2](https://static.wixstatic.com/media/31958c_a672be9b3033458bb55744b92734ace2~mv2.png)]()
-
-📑 [Terms of Use](https://gabriel-djalayer.gitbook.io/gdteam-wiki/guides/licenses#gui-simplestylized)
+[![GUI SimpleStylized - Banner](https://cdn.modrinth.com/data/npx9y1KS/images/e4eb102f2418e9e3b0e7855a807c50ae3e51336f.png)]()
 
 # Contributors
-Thanks to all!
+[See the list](https://github.com/GabrielDja/GUI-SimpleStylized/blob/1.21.4%2B/CONTRIBUTORS-CREDITS.json)
 
-- xlifi
-- WForst-Breeze
-- 17Js
-- Felix14-v2
-- audioL (Curseforge)
-- nco2k
+# LICENSE
+This pack was created by **GabrielDja**.  
+📑 **[Terms of Use](https://gabriel-djalayer.gitbook.io/gdteam-wiki/guides/licenses#gui-simplestylized)**
 
-# Download  
-CurseForge : https://www.curseforge.com/minecraft/texture-packs/gui-simplestylized  
-Modrinth : https://modrinth.com/resourcepack/gui-simplestylized
-
-# LICENSE (CC-BY-NC-4.0)
-This pack was created by **GabrielDja**,
-Please credit the creator when using the pack in public.
-
-## [Link to Wiki](https://gabriel-djalayer.gitbook.io/gdteam-wiki/projects/ressource-packs/gui-simplestylized)
-
+# List of supported mods
 **This Resource Pack is compatible with the following Mods (159 Mods):**
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [[Let's Do] Brewery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-brewery-farmcharm-compat)

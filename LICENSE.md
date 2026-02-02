@@ -5,6 +5,7 @@
 This pack was created by GabrielDja.
 
 **LINKS**  
-Website : https://gabrieldjalayer.wixsite.com/gabrieldja-gaming-yt  
-CurseForge : https://www.curseforge.com/members/gabriel_dja/projects  
-Modrinth : https://modrinth.com/user/GabrielDja
+My Website: https://gabrieldjalayer.wixsite.com/gabrieldja-gaming-yt  
+My Linktree: https://linktr.ee/GabrielDja
+CurseForge: https://www.curseforge.com/members/gabriel_dja/projects  
+Modrinth: https://modrinth.com/user/GabrielDja
