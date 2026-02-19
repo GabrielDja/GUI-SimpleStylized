@@ -4,7 +4,7 @@
 Je prévois de retravailler le pack pour la version 6.0.
 Et notamment pour une erreur présente depuis le début : la visibilité du texte dans les conteneurs.
 Pour corriger ce problème, je prévois de rendre l'interface plus sombre. Si vous souhaitez que ce changement se réalise, [participer au vote](https://strawpoll.com/X3nkPv7YYgE).
-> Tout le monde peut voter, les votes sont anonymes et prendront fin le 12 mars.
+> Tout le monde peut voter, les votes sont anonymes et prendront fin le 19 mars.
 
 **Du tri sera également fait, les mods qui utilisent des versions inférieures à la 1.21 seront retirés.**
 
