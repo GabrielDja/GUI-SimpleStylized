@@ -16,7 +16,7 @@ This pack was created by **GabrielDja**.
 📑 **[Terms of Use](https://gabriel-djalayer.gitbook.io/gdteam-wiki/guides/licenses#gui-simplestylized)**
 
 # List of supported mods
-**This Resource Pack is compatible with the following Mods (159 Mods):**
+**This Resource Pack is compatible with the following Mods (161 Mods):**
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [[Let's Do] Brewery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-brewery-farmcharm-compat)
 - [[Let's Do] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews)
@@ -71,6 +71,7 @@ This pack was created by **GabrielDja**.
 - [Easy Anvils](https://modrinth.com/mod/easy-anvils)
 - [Easy Magic](https://modrinth.com/mod/easy-magic) (Thanks to WForst-Breeze)
 - [Easy Villagers](https://modrinth.com/mod/easy-villagers)
+- [Echo Chest](https://modrinth.com/mod/echo-chest)
 - [EMI](https://modrinth.com/mod/emi) (Thanks to xlifi)
 - [Enchanting Infuser](https://modrinth.com/mod/enchanting-infuser)
 - [Energized Power](https://modrinth.com/mod/energized-power)
@@ -167,6 +168,7 @@ This pack was created by **GabrielDja**.
 - [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack)
 - [Trick Update 1.20 - Not Official](https://modrinth.com/mod/trick_update_1-20)
 - [Trinkets](https://modrinth.com/mod/trinkets)
+- [Uncraft Everything](https://modrinth.com/mod/uncraft-everything)
 - [Uncrafter](https://modrinth.com/mod/uncrafter)
 - [Unified Storage](https://modrinth.com/mod/unifiedstorage)
 - [Useful Saved Hotbars](https://modrinth.com/mod/useful-saved-hotbars)

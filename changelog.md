@@ -1,18 +1,18 @@
 // GUI SimpleStylized - Changelog in French
 
 5.5
-Je prévois de retravailler le pack pour la v6.0.
+Je prévois de retravailler le pack pour la version 6.0.
 Et notamment pour une erreur présente depuis le début : la visibilité du texte dans les conteneurs.
-J'ai mis en place un vote avec une image comparative, et vous pouvez également laisser des commentaires si vous avez des suggestions.
-[Je veux voter !](https://strawpoll.com/X3nkPv7YYgE)
-> Les votes sont anonymes et prendront fin le 20 mars.
+Pour corriger ce problème, je prévois de rendre l'interface plus sombre. Si vous souhaitez que ce changement se réalise, [participer au vote](https://strawpoll.com/X3nkPv7YYgE).
+> Tout le monde peut voter, les votes sont anonymes et prendront fin le 12 mars.
 
-**Changement concernant la numérotation de version du projet.**
-- Premier chiffre : changera en cas de modifications importantes ou si une longue liste de nouveaux modules sera prise en charge.
-- Deuxième chiffre : changera lorsque de nouveaux mods sont ajoutés, ainsi que des améliorations et corrections.
+**Du tri sera également fait, les mods qui utilisent des versions inférieures à la 1.21 seront retirés.**
+
+---
 
 ⚡**Nouveau mod pris en charge:**
 - Echo Chest
+- Uncraft Everything
 
 📜**Nouveaux addons:**
 - 
@@ -20,13 +20,15 @@ J'ai mis en place un vote avec une image comparative, et vous pouvez également 
 🛠️**Changements:**
 - Prend en charge la version `75` (1.21.11).
 - Réorganisation des fichiers dans le dossier racine du projet.
-- Mises à jour des assets pour les mods suivants:
+- Nouvelle apparence de la barre de recherche au focus.
+- Mises à jour des ressources pour les mods suivants:
+	- Fabric
 	- Backpacked (v3.0.0+)
 
 🐛**Corrections:**
 - 
 
-160 Mods compatibles au total!
+**161 Mods compatibles au total!**
 ---------------------
 5.4
 La version 1.20 n'est plus prise en charge.
